@@ -1,0 +1,5 @@
+})
+  setInterval{
+  client.user.setActivity(`${PREFIX}help`);
+  client.user.setActivity(`${PREFIX}Play`);
+}
